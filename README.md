@@ -90,3 +90,9 @@ Built during my internship at KensCorp Solution: a web app to manage club member
 | B.E. Computer Engineering, GTU (2023 to 2027) | CGPA 8.07 · Current SPI 8.65 |
 | 12th Standard, CBSE (2023) | 72% |
 | 10th Standard, CBSE (2021) | 76% |
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tirth-Vadhvana/Tirth-Vadhvana/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tirth-Vadhvana/Tirth-Vadhvana/output/github-snake.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/Tirth-Vadhvana/Tirth-Vadhvana/output/github-snake.svg" />
+</picture>
