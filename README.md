@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:8957e5&height=280&section=header&text=Hi,%20I'm%20Tirth&fontSize=46&fontColor=ffffff&fontAlignY=32&desc=Computer%20Engineering%20Student%20%7C%20MERN%20Stack%20Developer-nl-Ahmedabad,%20India%20%7C%20Open%20to%20internships%20and%20entry-level%20roles&descSize=18&descAlignY=54" width="100%" alt="Hi, I'm Tirth">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:8957e5&height=280&section=header&text=Hi,%20I'm%20Tirth&fontSize=46&fontColor=ffffff&fontAlignY=32&desc=Computer%20Engineering%20Student-nl-Ahmedabad,%20India%20%7C%20Open%20to%20internships%20and%20entry-level%20roles&descSize=18&descAlignY=54" width="100%" alt="Hi, I'm Tirth">
 
 <p align="center">
   <a href="https://www.linkedin.com/in/tirth-vadhvana"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -10,9 +10,6 @@
 
 ## About Me
 Computer Engineering student at GTU, passionate about turning ideas into working web applications. Focused on building clean, reliable products that people can actually use, and a fast learner who grows through hands-on projects. Seeking a Full Stack or Web Developer role where I can contribute from day one and grow as an engineer.
-
-- **Software Engineering:** Built a solid base in Java, data structures, and algorithms, and applied it to write clear, maintainable code.
-- **Full Stack Development:** Built responsive web applications with React.js and Node.js, from role-based logins and booking flows to real-time chat and map-based features, using Firebase and MySQL for data.
 
 ## Tech Stack
 **Languages**
@@ -46,18 +43,7 @@ Built a household services platform connecting customers with local providers, i
 
 </details>
 
-<details>
-<summary><b>Personal Portfolio Website</b></summary>
 
-<br>
-
-Built a PHP and MySQL site where students publish online portfolios for recruiters, in a team of 2.
-- Built a student login and dashboard to manage profile, skills, projects, and resume uploads
-- Implemented a public homepage with student cards and search filters by name, skill, and department
-- Developed responsive Home, About, Skills, Projects, Resume, and Contact pages
-- **Tech:** HTML, CSS, PHP, MySQL
-
-</details>
 
 <details>
 <summary><b>ClubZone System</b></summary>
