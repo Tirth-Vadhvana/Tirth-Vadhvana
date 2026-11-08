@@ -14,21 +14,43 @@ Computer Engineering student at GTU, passionate about turning ideas into working
 ## Tech Stack
 **Languages**
 
-![](https://skillicons.dev/icons?i=js,java,php,c,cpp,html,css)
+![](https://skillicons.dev/icons?i=js,java,php,c,cpp,python,html,css)
 
 **Frontend**
 
-![](https://skillicons.dev/icons?i=react,bootstrap)
+![](https://skillicons.dev/icons?i=react,nextjs,bootstrap,tailwind,vite)
 
-**Backend & Databases**
+**Backend & Frameworks**
 
-![](https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,firebase)
+![](https://skillicons.dev/icons?i=nodejs,express,spring)
+
+**Databases & Platforms**
+
+![](https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,supabase)
 
 **Tools & Cloud**
 
-![](https://skillicons.dev/icons?i=git,github,vscode,postman,powershell,docker,aws)
+![](https://skillicons.dev/icons?i=git,github,vscode,postman,powershell,docker,aws,figma,linux)
+
+**Additional Technologies**
+
+Spring Data JPA, Spring Security, Recharts, SQL, Neon, XAMPP
 
 ## Featured Projects
+
+<details>
+<summary><b>Uptime Monitor</b></summary>
+
+<br>
+
+Built a full-stack uptime monitoring platform for tracking website availability and detecting outages.
+- Developed automated website health checks with response-time tracking and outage detection
+- Built secure REST APIs using Spring Boot, Spring Security, JWT authentication, and TOTP-based Two-Factor Authentication (2FA)
+- Implemented scheduled monitoring, incident management, and automated email and Slack notifications
+- Designed a responsive React dashboard and deployed the application using Vercel, Render, and Neon PostgreSQL
+- **Tech:** Java 21, Spring Boot, Spring Security, React.js, PostgreSQL, Docker
+
+</details>
 
 <details>
 <summary><b>Smart Home & Food Solutions</b></summary>
